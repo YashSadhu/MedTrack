@@ -96,4 +96,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Thanks to all contributors who have helped shape this project
-- Special thanks to the open-source community for their invaluable tools and resources 
+- Special thanks to the open-source community for their invaluable tools and resources
+
+## 🔗 References & Demo
+
+- **Video Demo:** [ScreenRec Demo](https://screenrec.com/share/tzdPSBkWGN)
+- **Live App:** [MedTrack Live](https://v0-medication-adherence-platform-two.vercel.app/)
+- **Reference Repository:** [phskingff09/Med on GitHub](https://github.com/phskingff09/Med) 
